@@ -9,5 +9,13 @@ public class ForLoopTest1 {
 
         }
 
-    }
+
+       // for (int i = 1;; i++) {
+         //   System.out.println(i);//No condition so infinite
+        }
+
+//        final boolean b1 = true;
+////            for (int i=1; b1; i++){
+////            System.out.println("Hello");
+////                }
 }
